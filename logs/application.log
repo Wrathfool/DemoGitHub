@@ -1,0 +1,4 @@
+2024-04-18 22:13:35,941 INFO com.qa.opencart.logger.Log [TestNG-tests-3] Browser Name: edge
+2024-04-18 22:13:35,941 INFO com.qa.opencart.logger.Log [TestNG-tests-2] Browser Name: firefox
+2024-04-18 22:13:35,941 INFO com.qa.opencart.logger.Log [TestNG-tests-1] Browser Name: chrome
+2024-04-18 22:13:35,948 INFO com.qa.opencart.logger.Log [TestNG-tests-1] Running Chrome in headless mode
