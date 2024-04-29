@@ -43,10 +43,10 @@ public class ExtentReportListener implements ITestListener {
         reporter.config().setReportName("Open Cart Automation Test Results");
         extentReports.attachReporter(reporter);
         extentReports.setSystemInfo("System", "MAC");
-        extentReports.setSystemInfo("Author", "Naveen AutomationLabs");
+        extentReports.setSystemInfo("Author", "QA Enthusiast");
         extentReports.setSystemInfo("Build#", "1.1");
         extentReports.setSystemInfo("Team", "OpenCart QA Team");
-        extentReports.setSystemInfo("Customer Name", "NAL");
+        extentReports.setSystemInfo("Customer Name", "Demo");
         extentReports.setSystemInfo("ENV NAME", System.getProperty("env"));
 
         return extentReports;
