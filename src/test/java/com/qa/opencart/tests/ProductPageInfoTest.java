@@ -52,6 +52,8 @@ public class ProductPageInfoTest extends BaseTest {
         Assert.assertEquals(productInfoPage.getProductImagesCount(), imagesCount);
     }
 
+
+
     @Test
     public void productInfoTest() {
         searchResultsPage = accountsPage.doSearch("iMac");
