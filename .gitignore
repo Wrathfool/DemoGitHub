@@ -1,7 +1,23 @@
+logs/
+reports/
+build/
+screenshot/
+screenshots/
+test-output/
+allure-results/
+application.log
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionSBackup
+pom.xml.next
+pom.xml.bak
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.jar
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
