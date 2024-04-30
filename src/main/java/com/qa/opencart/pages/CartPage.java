@@ -10,6 +10,6 @@ public class CartPage {
     private By name = By.id("name");
 
     public void getName(){
-        Log.info("Name is Wrathfool");
+        Log.info("Name is Painfoool");
     }
 }
